@@ -17,7 +17,7 @@ The Rainy Days course assignment is a simple e-commerce website for selling clot
 Noroff semester project 1, creating a website for "Community Science Museum" in HTML and CSS.
 
 ## 📫 How to reach me
-[LinkedIn](https://www.linkedin.com/in/sandernilsen/)
+- [LinkedIn](https://www.linkedin.com/in/sandernilsen/)
 
 ## 🥾 Hobbies
 - Coding
