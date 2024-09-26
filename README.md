@@ -22,6 +22,10 @@ I'm a student at at Noroff with a passion for creating intuitive and engaging us
 
 ## 🦉 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/sandernilsen/)
+- <a href="https://www.linkedin.com/sandernilsen">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="linkedin"> 
+  </a>
+- ![image]({BadgeURLHere})
 - [E-Mail](mailto:sander.nil@hotmail.com)
 - [Portfolio](https://sandernilsen.github.io/)
 
