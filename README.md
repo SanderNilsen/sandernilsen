@@ -2,11 +2,11 @@
 I'm a student at at Noroff with a passion for creating intuitive and engaging user experiences. My studies focus on HTML, CSS, JavaScript, and various front-end frameworks, equipping me with the skills to build responsive and dynamic websites. I am eager to apply my knowledge and creativity to real-world projects and collaborate with like-minded professionals in the tech industry.
 
 ## 🌱 What I've learnt so far
- <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="bootstrap"> 
- <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" alt="figma"> 
- <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="html"> 
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="javascript"> 
- <img src="https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="wordpress"> 
+- <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="bootstrap"> 
+- <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" alt="figma"> 
+- <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="html"> 
+- <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="javascript"> 
+- <img src="https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="wordpress"> 
 
 
 ## 🧗🏼 My Projects
@@ -19,12 +19,12 @@ I'm a student at at Noroff with a passion for creating intuitive and engaging us
 - [Semester Project 1 - Community Science Museum](https://github.com/SanderNilsen/Semester-Project-1)
 <br>Noroff semester project 1, creating a website for "Community Science Museum" in HTML and CSS.
 
-## 🦉 How to reach me
-<a href="https://www.linkedin.com/in/sandernilsen/">
- <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="linkedin"> 
-</a>
-
 ## 🥾 Hobbies
 - Running
 - Designing
 - Hiking
+
+## 🦉 How to reach me
+<a href="https://www.linkedin.com/in/sandernilsen/">
+ <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="linkedin"> 
+</a>
