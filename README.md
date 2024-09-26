@@ -2,13 +2,12 @@
 I'm a student at at Noroff with a passion for creating intuitive and engaging user experiences. My studies focus on HTML, CSS, JavaScript, and various front-end frameworks, equipping me with the skills to build responsive and dynamic websites. I am eager to apply my knowledge and creativity to real-world projects and collaborate with like-minded professionals in the tech industry.
 
 ## 🌱 What I've learnt so far
-- UI/UX Design
-- Figma
-- GitHub
-- HTML
-- CSS
-- Basic JavaScript
-- Wordpress Content Management System
+ <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="bootstrap"> 
+ <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" alt="figma"> 
+ <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="html"> 
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="javascript"> 
+ <img src="https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="wordpress"> 
+
 
 ## 🧗🏼 My Projects
 - [Project Exam 1 - LofotenPeaks](https://github.com/Noroff-FEU-Assignments/project-exam-1-SanderNilsen)
@@ -21,13 +20,9 @@ I'm a student at at Noroff with a passion for creating intuitive and engaging us
 <br>Noroff semester project 1, creating a website for "Community Science Museum" in HTML and CSS.
 
 ## 🦉 How to reach me
-- [LinkedIn](https://www.linkedin.com/in/sandernilsen/)
-- <a href="https://www.linkedin.com/sandernilsen">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="linkedin"> 
-  </a>
-- ![image]({BadgeURLHere})
-- [E-Mail](mailto:sander.nil@hotmail.com)
-- [Portfolio](https://sandernilsen.github.io/)
+<a href="https://www.linkedin.com/in/sandernilsen/">
+ <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="linkedin"> 
+</a>
 
 ## 🥾 Hobbies
 - Running
