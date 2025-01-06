@@ -25,3 +25,5 @@ I'm a student at at Noroff with a passion for creating intuitive and engaging us
 <a href="https://www.linkedin.com/in/sandernilsen/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="linkedin"> 
 </a>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SanderNilsen&theme=dark&show_icons=true&hide_border=true&count_private=true)
