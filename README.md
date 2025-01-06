@@ -28,4 +28,4 @@ I'm a student at at Noroff with a passion for creating intuitive and engaging us
 
 ## 📈 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SanderNilsen&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SanderNilsen&theme=onedark&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SanderNilsen&theme=dark&show_icons=true&hide_border=true&layout=compact)
