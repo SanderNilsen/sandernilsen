@@ -1,4 +1,4 @@
-## Hi there, I'm Sander 👋🏼
+## 👋🏼 Hi there, I'm Sander
 I'm a student at at Noroff with a passion for creating intuitive and engaging user experiences. My studies focus on HTML, CSS, JavaScript, and various front-end frameworks, equipping me with the skills to build responsive and dynamic websites. I am eager to apply my knowledge and creativity to real-world projects and collaborate with like-minded professionals in the tech industry.
 
 ## 🌱 I'm currently learning
@@ -27,5 +27,7 @@ I'm a student at at Noroff with a passion for creating intuitive and engaging us
 </a>
 
 ## 📈 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SanderNilsen&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SanderNilsen&theme=dark&show_icons=true&hide_border=true&layout=compact)
+<p>
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SanderNilsen&theme=dark&show_icons=true&hide_border=true&count_private=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SanderNilsen&theme=dark&show_icons=true&hide_border=true&layout=compact)
+</p>
