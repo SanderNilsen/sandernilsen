@@ -1,36 +1,68 @@
-## 👋🏼 Hi there, I'm Sander
-I'm a student at Noroff with a passion for creating intuitive and engaging user experiences. My studies focus on HTML, CSS, JavaScript, and front-end frameworks, equipping me with the skills to build responsive and dynamic websites. I’m eager to apply my knowledge to real-world projects and collaborate with like-minded professionals in the tech industry.
+<h1>👋🏼 Hi there, I'm <span style="color:#61DAFB;">Sander</span></h1>
 
-## 🌱 Currently learning
-  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="html"> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="bootstrap"> <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" alt="figma"> 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="javascript"> <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="react">
-  <img src="https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="wordpress"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindcss">
-
-## 🧑‍💻 Projects
-[CSS Frameworks CA - LinkUp](https://github.com/SanderNilsen/css-frameworks-ca)
-<br>A simple social media application built using HTML, SASS, Bootstrap and MJS.
-
-[Project Exam 1 - LofotenPeaks](https://github.com/Noroff-FEU-Assignments/project-exam-1-SanderNilsen)
-<br>A custom blog website built with HTML, CSS, and JavaScript, using WordPress as a Headless CMS.
-
-[Cross Course Project - RainyDays](https://github.com/SanderNilsen/RainyDays)
-<br>A simple e-commerce website for selling clothing items, developed using HTML, CSS, and JavaScript.
-
-[Semester Project 1 - Community Science Museum](https://github.com/SanderNilsen/Semester-Project-1)
-<br>A website for the "Community Science Museum," created as part of my Noroff semester project using HTML and CSS.
-
-## 🥾 Hobbies
-- 🏃 Running
-- 🎨 Designing
-- 🥾 Hiking
-
-## 🦉 Connect with Me
-<a href="https://www.linkedin.com/in/sandernilsen/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="linkedin"> 
-</a>
-
-## 📈 Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=SanderNilsen&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="SanderNilsen's GitHub Stats" width="411" height="171"/>
+  I'm a <strong>Front-End Development student at Noroff</strong> passionate about creating intuitive and engaging user experiences.<br>
+  I focus on <strong>responsive design, accessibility, and clean UI development</strong> — bringing ideas to life through code and design.
 </p>
+
+## 🌱 Currently Learning
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/SASS-%23CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white" alt="SASS" />
+  <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" alt="Figma" />
+</p>
+
+## 💻 Featured Projects
+
+| Project | Description | Tech |
+|----------|--------------|------|
+| [**LinkUp**](https://github.com/SanderNilsen/css-frameworks-ca) | A simple social media app built with modular JavaScript and Bootstrap. | HTML · SASS · Bootstrap · JS |
+| [**LofotenPeaks**](https://github.com/Noroff-FEU-Assignments/project-exam-1-SanderNilsen) | Custom blog using WordPress as a Headless CMS. | HTML · CSS · JS · WP API |
+| [**RainyDays**](https://github.com/SanderNilsen/RainyDays) | E-commerce website for outdoor clothing. | HTML · CSS · JS |
+| [**Community Science Museum**](https://github.com/SanderNilsen/Semester-Project-1) | Interactive website for a fictional museum. | HTML · CSS |
+
+## 🏞️ Outside of Code
+
+- 🏃 **Running** — clears my mind and fuels creativity  
+- 🎨 **Designing** — exploring layout, typography, and UI systems  
+- 🥾 **Hiking** — inspired by nature and adventure  
+
+## 🤝🏼 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/sandernilsen/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=SanderNilsen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" 
+    alt="GitHub stats" 
+    width="49%"
+  />
+  <img 
+    src="https://streak-stats.demolab.com?user=SanderNilsen&theme=tokyonight&hide_border=true&background=0D1117" 
+    alt="GitHub streak" 
+    width="49%"
+  />
+
+  <br/>
+
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SanderNilsen&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" 
+    alt="GitHub Activity Graph" 
+    width="98%"
+  />
+
+</div>
