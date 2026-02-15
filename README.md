@@ -30,9 +30,9 @@
 
 ## 🏞️ Outside of Code
 
-- 🏃 **Running** — clears my mind and fuels creativity  
-- 🎨 **Designing** — exploring layout, typography, and UI systems  
-- 🥾 **Hiking** — inspired by nature and adventure  
+🏃 **Running** - clears my mind and fuels creativity  
+🎨 **Designing** - exploring layout, typography, and UI systems  
+🥾 **Hiking** - inspired by nature and adventure  
 
 ## 🤝🏼 Connect With Me
 
