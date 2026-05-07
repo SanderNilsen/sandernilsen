@@ -47,19 +47,6 @@
 <div align="center">
 
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=SanderNilsen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" 
-    alt="GitHub stats" 
-    width="49%"
-  />
-  <img 
-    src="https://streak-stats.demolab.com?user=SanderNilsen&theme=tokyonight&hide_border=true&background=0D1117" 
-    alt="GitHub streak" 
-    width="49%"
-  />
-
-  <br/>
-
-  <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=SanderNilsen&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" 
     alt="GitHub Activity Graph" 
     width="98%"
