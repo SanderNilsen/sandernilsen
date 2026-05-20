@@ -1,11 +1,13 @@
 <h1>👋🏼 Hi there, I'm <span style="color:#61DAFB;">Sander</span></h1>
 
 <p>
-  I'm a <strong>Front-End Development student at Noroff</strong> passionate about creating intuitive and engaging user experiences.<br>
-  I focus on <strong>responsive design, accessibility, and clean UI development</strong> — bringing ideas to life through code and design.
+  I'm a Front-End Developer passionate about creating intuitive and engaging user experiences.<br>
+  I enjoy combining visual design with clean, maintainable code, and I’m currently building projects with JavaScript, React, REST APIs, and modern CSS workflows.
 </p>
 
-## 🌱 Currently Learning
+🖥️ Portfolio: [sandernilsen.no](https://sandernilsen.no)
+
+## Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5" />
@@ -19,22 +21,21 @@
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" alt="Figma" />
 </p>
 
-## 💻 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech |
 |----------|--------------|------|
-| [**LinkUp**](https://github.com/SanderNilsen/css-frameworks-ca) | A simple social media app built with modular JavaScript and Bootstrap. | HTML · SASS · Bootstrap · JS |
-| [**LofotenPeaks**](https://github.com/Noroff-FEU-Assignments/project-exam-1-SanderNilsen) | Custom blog using WordPress as a Headless CMS. | HTML · CSS · JS · WP API |
-| [**RainyDays**](https://github.com/SanderNilsen/RainyDays) | E-commerce website for outdoor clothing. | HTML · CSS · JS |
-| [**Community Science Museum**](https://github.com/SanderNilsen/Semester-Project-1) | Interactive website for a fictional museum. | HTML · CSS |
+| [**Semester Project 2 - Auction House**](https://github.com/SanderNilsen/Semester-Project-2-AuctionHouse) | A functional auction platform where users can buy and sell items using a credit-based system. | HTML · Tailwind · Vite · JS |
+| [**Javascript FrameWorks CA - eCommerce**](https://github.com/SanderNilsen/js-frameworks-ca) | The application demonstrates usage of React with routing, API integration, global state management, form validation, and styled-components. | HTML · React · Styled-Components · JS |
+| [**Project Exam 2 - Holidaze**](https://github.com/SanderNilsen/project-exam-2-holidaze) | Holidaze is a booking application where users can browse venues, view venue details, create bookings, and manage their profile. | HTML · Styled-Components · React |
 
-## 🏞️ Outside of Code
+## Outside of Code
 
 🏃 **Running** - clears my mind and fuels creativity  
 🎨 **Designing** - exploring layout, typography, and UI systems  
 🥾 **Hiking** - inspired by nature and adventure  
 
-## 🤝🏼 Connect With Me
+## Connect With Me
 
 <p>
   <a href="https://www.linkedin.com/in/sandernilsen/" target="_blank">
@@ -42,7 +43,7 @@
   </a>
 </p>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
